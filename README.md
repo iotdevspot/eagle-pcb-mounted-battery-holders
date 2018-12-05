@@ -17,4 +17,4 @@ Since Autodesk's library.io hasn't got the feature to publish my managed libary 
 
 Link: [https://library.io/libraries/5746020-005-battery-holders](https://library.io/libraries/5746020-005-battery-holders)
 
-![image of the modules](/img1.png)
+![image of the modules](images/img1.png)
